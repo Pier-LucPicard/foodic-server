@@ -1,0 +1,19 @@
+{
+  "name": "foodic-server",
+  "version": "1.0.0",
+  "description": "Server for the foodic app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pier-LucPicard/foodic-server.git"
+  },
+  "author": "Pier-Luc Picard",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Pier-LucPicard/foodic-server/issues"
+  },
+  "homepage": "https://github.com/Pier-LucPicard/foodic-server#readme"
+}
