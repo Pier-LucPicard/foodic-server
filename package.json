@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Pier-LucPicard/foodic-server/issues"
   },
-  "homepage": "https://github.com/Pier-LucPicard/foodic-server#readme"
+  "homepage": "https://github.com/Pier-LucPicard/foodic-server#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
 }
