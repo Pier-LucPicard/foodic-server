@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/Pier-LucPicard/foodic-server#readme",
   "dependencies": {
-    "express": "^4.14.0"
+    "express": "^4.14.0",
+    "tingodb": "^0.4.2"
   }
 }
