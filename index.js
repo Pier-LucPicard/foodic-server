@@ -9,4 +9,11 @@ app.get('/',function(req,res){
 });
 
 var db = new Engine.Db('./data',{});
+
+var recipes = db.collection("recipes");
+
+recipes.findOne({hello:'world_safe2'}, function(err, item) {
+  console.log(item);
+})
+
 app.listen(config.server.port);
